@@ -1,5 +1,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/936392097450311710)](https://discord.com/users/936392097450311710)
 
-OGoldtimer/OGoldtimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+OGoldtimer/OGoldtimer is a ✨ Twitch streamer on the grind to Twitch Affiliate. ✨
 --->
